@@ -17,7 +17,7 @@ public class EjemploGIT {
      */
     public static void main(String[] args) {
          System.out.println("AlexeiDios RECORDAR: ");
-         System.out.println("Nota exposicion: 5.0 ");
+         System.out.println("Nota exposicion: 50.0 "); //La nota deberia ser 50. By: Alvarez
     }
     
 }
